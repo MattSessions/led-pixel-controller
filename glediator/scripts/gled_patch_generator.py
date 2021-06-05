@@ -1,8 +1,8 @@
 import socket
 
 x_size = 10
-y_size = 25
-pixel_count = 250
+y_size = 30
+pixel_count = 300
 channel_count = pixel_count * 3
 pixels_per_universe = 170
 universe_count = 2
